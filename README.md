@@ -1,1 +1,1 @@
-# python-inspirational-quotes-project
+# Python inspirational quotes project
